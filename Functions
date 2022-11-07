@@ -1,0 +1,16 @@
+#def name(parameter1, parameter2):
+#  statements
+#  return value
+
+
+# exsample
+def subtract(a, b):
+   c = a - b
+   return c
+
+result = subtract(10, 5)
+result   # dose not print on screan 
+
+# used print()
+print(result)
+#5
